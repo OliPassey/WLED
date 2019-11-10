@@ -7,6 +7,9 @@
 
 ## Welcome to my project WLED!
 
+Forked by OliPassey November '19 as part of the 'Jars of Notification & Lighting' Project.
+All credit to AirCookie for an amazing project!
+
 A fast and feature-rich implementation of an ESP8266/ESP32 webserver to control NeoPixel (WS2812B, WS2811, SK6812, APA102) LEDs!
 
 ### Features:
